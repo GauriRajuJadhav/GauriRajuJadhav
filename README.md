@@ -1,10 +1,10 @@
 
 
 
-# 👋 Hi, I'm **Gauri Raju Jadhav**
+# 👋 Hi, I'm Gauri Jadhav
 
+### 💻 Java Full Stack Developer | 🚀 Software Developer 
 
-### Java Full Stack Developer
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer&center=true&size=22" />
 </p>
