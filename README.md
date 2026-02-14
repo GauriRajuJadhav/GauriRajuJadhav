@@ -1,18 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=150&section=footer&text=Gauri%20Jadhav&fontSize=30&fontAlignY=50&color=gradient&animation=fadeIn&fontAlign=center" />
-
-
-
-
-
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=👋%20Hi,%20I'm%20Gauri%20Jadhav&fontSize=20&fontAlignY=70&color=gradient&animation=twinkling" />
-
-<p align="center">
-⭐ Thank you for visiting my profile!
-</p>
-
 
 ### 💻 Java Full Stack Developer | 🚀 Software Developer 
 
