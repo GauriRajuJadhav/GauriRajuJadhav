@@ -118,8 +118,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GauriRajuJadhav&theme=react-dark)
 
-🌱 Learning, building, and growing as a Java Full Stack Developer.
-⭐ Thank you for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Learning,%20building,%20and%20growing%20as%20a%20Java%20Full%20Stack%20Developer&fontSize=18&fontAlignY=70&color=gradient&animation=twinkling" />
 
