@@ -6,8 +6,9 @@
 ### 💻 Java Full Stack Developer | 🚀 Software Developer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer&center=true&size=24&color=00E5FF&shadow=true&background=000000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer&center=true&size=24&color=8A2BE2&shadow=true" />
 </p>
+
 
 
 
