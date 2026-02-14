@@ -121,7 +121,7 @@
 🌱 Learning, building, and growing as a Java Full Stack Developer.
 ⭐ Thank you for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=160&text=Learning,%20building,%20and%20growing%20as%20a%20Java%20Full%20Stack%20Developer&fontSize=22&fontAlignY=65&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Learning,%20building,%20and%20growing%20as%20a%20Java%20Full%20Stack%20Developer&fontSize=18&fontAlignY=70&color=gradient&animation=twinkling" />
 
 <p align="center">
 ⭐ Thank you for visiting my profile!
