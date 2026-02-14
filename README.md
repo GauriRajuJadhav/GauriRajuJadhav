@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=150&section=footer&text=Gauri%20Jadhav&fontSize=30&fontAlignY=50&color=gradient&animation=fadeIn&fontAlign=center" />
 
-<p align="center">
-⭐ Thank you for visiting my profile!
-</p>
 
 
 
