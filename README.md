@@ -3,11 +3,13 @@
 
 # 👋 Hi, I'm **Gauri Raju Jadhav**
 
-###  
-💻 Java Full Stack Developer 🚀SoftwareDeveloper
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Java%20Full%20Stack%20Developer&fontSize=22&color=gradient&animation=fadeIn&height=80" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer&center=true&size=22" />
 </p>
+
+# 👋 Hi, I'm **Gauri Raju Jadhav**
+
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gauri-jadhav-96169532a)
