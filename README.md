@@ -121,3 +121,7 @@
 🌱 Learning, building, and growing as a Java Full Stack Developer.
 ⭐ Thank you for visiting my profile!
 
+<h3 align="center">
+  🚀 <span style="text-shadow:2px 2px 6px #000;">Building scalable Java-based applications with clean code.</span>
+</h3>
+
