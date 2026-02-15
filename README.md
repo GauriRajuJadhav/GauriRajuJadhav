@@ -123,12 +123,15 @@
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 Top Languages (Bar Chart)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriRajuJadhav&layout=compact&theme=radical" />
 </p>
+## 📈 GitHub Contribution Activity
 
-> The above chart represents my GitHub contribution activity and coding consistency.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauriRajuJadhav&theme=react-dark" />
+</p>
 
 
