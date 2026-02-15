@@ -127,5 +127,6 @@
 ⭐ Thank you for visiting my profile!
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=GauriRajuJadhav" />
+
 
