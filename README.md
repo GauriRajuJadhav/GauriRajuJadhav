@@ -127,3 +127,50 @@
 ⭐ Thank you for visiting my profile!
 </p>
 
+GitHub Profile Overview
+
+## 📊 GitHub Activity Chart
+
+![GitHub Insights](./github-insights.png)
+
+> Upload the chart image in your repository and name it *github-insights.png*
+
+---
+
+## 🔍 Chart Explanation
+
+This chart shows a summary of GitHub activity and learning progress.
+
+### 💻 Total Contributions
+- Represents total commits and activities on GitHub  
+- Shows regular coding practice and consistency
+
+### 🔥 Learning Streak
+- Displays continuous learning or coding days  
+- Reflects discipline and daily improvement
+
+### 🚀 Active Projects
+- Indicates ongoing projects  
+- Highlights practical experience and hands-on skills
+
+---
+
+## 📈 Why This Chart is Important
+- Shows learning consistency
+- Highlights active participation on GitHub
+- Helps recruiters quickly evaluate GitHub activity
+- Makes the profile more professional
+
+---
+
+## 🧑‍💻 About This Repository
+This repository is created to:
+- Learn and practice programming concepts
+- Build real-world projects
+- Improve coding and problem-solving skills
+- Maintain a professional GitHub profile
+
+---
+
+## ✅ Conclusion
+This repository and activity chart together represent continuous learning, dedication, and technical growth.
