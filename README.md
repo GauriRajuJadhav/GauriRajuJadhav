@@ -123,5 +123,12 @@
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=radical" />
+</p>
+
+> The above chart represents my GitHub contribution activity and coding consistency.
 
 
