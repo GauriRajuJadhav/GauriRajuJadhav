@@ -125,9 +125,10 @@
 </p>
 
 
+## 🚀 My Projects
 
-## 📈 GitHub Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauriRajuJadhav&theme=react-dark" />
+  <a href="https://github.com/GauriRajuJadhav/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GauriRajuJadhav&repo=REPO_NAME&theme=radical" />
+  </a>
 </p>
-
