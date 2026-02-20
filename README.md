@@ -127,9 +127,8 @@
 
 
 
-## 🌈 GitHub Stats
+## 📈 GitHub Contribution Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyanidaware&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyanidaware&theme=react-dark" />
 </p>
-
 
