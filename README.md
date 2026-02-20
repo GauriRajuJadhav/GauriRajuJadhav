@@ -126,9 +126,5 @@
 
 
 
-
-## 📈 GitHub Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyanidaware&theme=react-dark" />
-</p>
+>
 
