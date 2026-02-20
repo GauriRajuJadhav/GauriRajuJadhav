@@ -125,10 +125,8 @@
 </p>
 
 
-## 🚀 My Projects
+## 📊 GitHub Overview
 
 <p align="center">
-  <a href="https://github.com/GauriRajuJadhav/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GauriRajuJadhav&repo=REPO_NAME&theme=radical" />
-  </a>
+  <img src="./assets/github-stats.png" alt="Gauri Jadhav GitHub Stats" />
 </p>
