@@ -110,10 +110,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=radical" />
 </p>
 
-## 📈 GitHub Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauriRajuJadhav&theme=react-dark" />
-</p>
+
 
 
 
@@ -125,8 +122,3 @@
 </p>
 
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="./assets/github-stats.png" alt="Gauri Jadhav GitHub Stats" />
-</p>
