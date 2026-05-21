@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Software Developer | Java Enthusiast | Fresher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer;Spring+Boot+Developer&center=true&width=600&height=45&color=8A2BE2&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer;Sr&center=true&width=600&height=45&color=8A2BE2&size=25" />
 </p>
 
 ---
