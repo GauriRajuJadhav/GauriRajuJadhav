@@ -178,5 +178,4 @@ React.js, Next.js, Node.js, MongoDB, Solidity, Three.js, Ethereum, Tailwind CSS
 </p>
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=⭐%20Thank%20You%20For%20Visiting%20My%20Profile&fontSize=22&fontAlignY=40&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=⭐%20Thank%20You%20For%20Visiting%20My%20Profile&fontSize=22&fontAlignY=40&color=0:8A2BE2,100:DA70D6" />
