@@ -1,18 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=👋%20Hi,%20I'm%20Gauri%20Jadhav&fontSize=28&fontAlignY=40&color=gradient&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=👋%20Hi,%20I'm%20Gauri%20Jadhav&fontSize=30&fontAlignY=35&color=gradient&animation=fadeIn" />
 
-# 💻 Java Full Stack Developer | 🚀 Software Developer
+<h1 align="center">💻 Java Full Stack Developer</h1>
+
+<h3 align="center">🚀 Software Developer | Java Enthusiast | Fresher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer;Spring+Boot+Developer&center=true&size=24&color=8A2BE2&pause=1000&width=600" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Software+Developer;Spring+Boot+Developer&center=true&width=600&height=45&color=8A2BE2&size=25" />
 </p>
 
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gauri-jadhav-96169532a)
 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:gaurijadhav2022@gmail.com)
+<a href="https://www.linkedin.com/in/gauri-jadhav-96169532a">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/GauriRajuJadhav)
+<a href="mailto:gaurijadhav2022@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/GauriRajuJadhav">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
 </p>
 
@@ -22,120 +34,136 @@
 
 🎓 B.E. Information Technology (2022 – 2026)  
 💻 Java Full Stack Developer (Fresher)  
-🌱 Currently learning Core Java, SQL & Spring Boot  
-🚀 Interested in Software Engineer / Java Developer roles  
+🌱 Currently Learning Core Java, SQL & Spring Boot  
+🚀 Interested in Software Engineer / Java Developer Roles  
 📍 Maharashtra, India  
 
 ---
 
 # 🚀 Tech Stack
 
-## 🔤 Programming Languages
+## 🔤 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 🎨 Frontend Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
 
 ---
 
 ## ⚙️ Backend Technologies
 
-![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge)
+<p>
 
-![Advanced Java](https://img.shields.io/badge/Advanced%20Java-00599C?style=for-the-badge)
+<img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge"/>
 
-![JSP](https://img.shields.io/badge/JSP-8B0000?style=for-the-badge)
+<img src="https://img.shields.io/badge/Advanced%20Java-00599C?style=for-the-badge"/>
 
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge)
+<img src="https://img.shields.io/badge/JSP-8B0000?style=for-the-badge"/>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<img src="https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🛠️ Tools & Servers
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide)
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
 
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide"/>
+
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+
+</p>
 
 ---
 
 # 💼 Experience
 
 ## 💻 Software Development Intern
-### Humming Byte Technologies | Jan 2025 – Apr 2025
+### Humming Byte Technologies Pvt. Ltd.
+📅 Jan 2025 – Apr 2025
 
-- Assisted in coding, testing, and debugging Java-based modules
-- Fixed defects and supported SDLC activities
-- Worked with backend logic and database integration
+- Worked on Java-based applications
+- Fixed bugs and improved application performance
+- Collaborated with developers in Agile environment
+- Gained experience in SDLC and coding practices
 
 ---
 
-## 📊 Data Science Intern
-### Softcrowd Technologies | Jan 2025 – Feb 2025
+## 📊 Java Full Stack Developer Intern
+### Softcrowd Technologies
+📅 Jan 2025 – Feb 2025
 
-- Analyzed datasets using Excel and SQL
-- Created dashboards using Power BI
-- Identified trends for data-driven insights
+- Developed responsive web applications
+- Performed CRUD operations using MySQL
+- Worked with frontend-backend integration
+- Used Git & GitHub for version control
 
 ---
 
 # ⭐ Featured Projects
 
-## 🏦 Online Banking System
+## 🏦 Online Jewellery Management System
 
-- Secure login system
-- Fund transfer functionality
-- User account management
+- Java-based e-commerce application
+- CRUD operations and authentication
+- Product search and cart management
 
-### 🔧 Tech Used
-Java, Spring Boot, Hibernate, MySQL
-
----
-
-## 📝 Student Registration Form
-
-- Responsive registration form
-- Built using HTML & CSS
-- Basic form validation
-
-### 🔧 Tech Used
-HTML, CSS
+### 🔧 Technologies Used
+Java, HTML, CSS, JavaScript, MySQL, Tomcat, NetBeans
 
 ---
 
-## 🖼️ Blockchain-Based 3D NFT Marketplace
+## 🖼️ Blockchain-Based 3D NFT Marketplace Platform
 
-- Digital marketplace for showcasing 3D NFT assets
-- NFT listings with metadata
-- Focus on UI design and scalability
+- Decentralized NFT Marketplace
+- Real-time 3D rendering using Three.js
+- IPFS decentralized storage integration
+- MetaMask wallet authentication
 
-### 🔧 Tech Used
-HTML, CSS, JavaScript, Java, MySQL
+### 🔧 Technologies Used
+React.js, Next.js, Node.js, MongoDB, Solidity, Three.js, Ethereum, Tailwind CSS
 
 ---
 
@@ -143,15 +171,15 @@ HTML, CSS, JavaScript, Java, MySQL
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GauriRajuJadhav&show_icons=true&theme=radical" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauriRajuJadhav&show_icons=true&theme=radical"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=radical" height="180em"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=radical"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 📊 Top Languages
 
 <p align="center">
 
@@ -161,7 +189,7 @@ HTML, CSS, JavaScript, Java, MySQL
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -171,8 +199,4 @@ HTML, CSS, JavaScript, Java, MySQL
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Learning,%20Building,%20and%20Growing%20as%20a%20Java%20Full%20Stack%20Developer&fontSize=18&fontAlignY=70&color=gradient&animation=twinkling" />
-
-<p align="center">
-⭐ Thank you for visiting my profile!
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=⭐%20Thank%20You%20For%20Visiting%20My%20Profile&fontSize=22&fontAlignY=40&color=gradient" />
