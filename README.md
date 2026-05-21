@@ -177,26 +177,6 @@ React.js, Next.js, Node.js, MongoDB, Solidity, Three.js, Ethereum, Tailwind CSS
 
 </p>
 
----
 
-# 📊 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriRajuJadhav&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauriRajuJadhav&theme=react-dark"/>
-
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=⭐%20Thank%20You%20For%20Visiting%20My%20Profile&fontSize=22&fontAlignY=40&color=gradient" />
