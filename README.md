@@ -16,7 +16,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=GauriRajuJadhav&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -123,13 +122,17 @@
 
 ---
 
-## 📜 Certifications
+##  🏆 Achievements
 
 🏅 Java – Infosys Springboard
 
 🏅 Complete OOP Course – Udemy
 
 🏅 Cybersecurity Essentials – ICT Academy
+
+🏅 Gold Medalist – University Cultural Event
+
+🎓 CGPA: 9.40 in Bachelor of Engineering (Information Technology)
 
 ---
 
