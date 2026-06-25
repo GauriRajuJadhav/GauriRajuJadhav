@@ -1,81 +1,125 @@
-```md
-<h1 align="center">Hi 👋, I'm Gauri Jadhav</h1>
-<h3 align="center">Java Full Stack Developer | Software Engineer | IT Student</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Gauri%20Jadhav&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+# 👋 Hi, I'm Gauri Jadhav
+
+### 💻 Java Full Stack Developer | Software Engineer | IT Student
+
+🎓 Final Year Information Technology Student | Savitribai Phule Pune University
+
+🏆 CGPA: 9.40
+
+📍 Nashik, Maharashtra, India
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Software+Engineering+Student;Passionate+Java+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GauriRajuJadhav&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Bachelor of Engineering (Information Technology)
+* 🏆 CGPA: 9.40
+* 💡 Strong understanding of Object-Oriented Programming (OOP)
+* 🌐 Experience in Responsive Web Application Development
+* 🔧 Knowledge of REST APIs, Database Design & SDLC
+* 🤝 Team Player with Software Development Internship Experience
+* 🚀 Passionate about Building Real-World Software Solutions
+* 🎯 Open to Software Development & Full Stack Opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GauriRajuJadhav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql&theme=dark"/>
 </p>
 
----
+### ⚛️ Frontend Development
 
-## 👩‍💻 About Me
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css&theme=dark"/>
+</p>
 
-🎓 Final Year Information Technology Student at Savitribai Phule Pune University (CGPA: 9.40)
+### 🔧 Backend Development
 
-💻 Passionate about Full Stack Development, Web Applications, and Emerging Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,nodejs&theme=dark"/>
+</p>
 
-🚀 Skilled in Java, React.js, JavaScript, SQL, MySQL and Database Management
+### 🗄️ Database Technologies
 
-🌱 Currently exploring Blockchain, Web3, Cloud Computing and Advanced Software Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
 
----
+### 🛠️ Tools & Platforms
 
-## 🛠 Skills & Technologies
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
 
 ---
 
 ## 💼 Internship Experience
 
-### Software Development Intern
-**Humming Byte Technologies Pvt. Ltd.**
-- Developed and maintained Java-based applications
-- Debugged and optimized application performance
-- Worked in Agile development environment
+### 💻 Software Development Intern
 
-### Java Full Stack Developer Intern
+**Humming Byte Technologies Pvt. Ltd.**
+
+✔ Developed Java-based Applications
+
+✔ Optimized Application Performance
+
+✔ Worked in Agile Development Environment
+
+✔ Collaborated with Development Teams
+
+### ☕ Java Full Stack Developer Intern
+
 **Softcrowd Technologies**
-- Built responsive web applications
-- Performed CRUD operations using MySQL
-- Used Git and GitHub for version control
+
+✔ Developed Responsive Web Applications
+
+✔ Frontend & Backend Integration
+
+✔ CRUD Operations using MySQL
+
+✔ Git & GitHub Version Control
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💎 Online Jewellery Management System
-- User Authentication & Authorization
-- Product Search & Cart Management
-- CRUD Operations
-- Java, MySQL, HTML, CSS, JavaScript
 
-### 🖼 Blockchain Based 3D NFT Marketplace
-- NFT Minting using Smart Contracts
-- Three.js 3D Visualization
-- MetaMask Authentication
-- IPFS Decentralized Storage
-- React.js, Next.js, Node.js, MongoDB, Solidity
+✔ User Authentication & Authorization
+
+✔ Product Search & Cart Management
+
+✔ CRUD Operations
+
+**Tech Stack:** Java, MySQL, HTML, CSS, JavaScript
+
+### 🖼️ Blockchain-Based 3D NFT Marketplace
+
+✔ NFT Minting using Smart Contracts
+
+✔ Three.js 3D Visualization
+
+✔ MetaMask Authentication
+
+✔ IPFS Decentralized Storage
+
+**Tech Stack:** React.js • Next.js • Node.js • MongoDB • Solidity • Ethereum • Three.js • IPFS
 
 ---
 
@@ -89,24 +133,18 @@
 
 ---
 
-## 🏆 Achievements
-
-🥇 Gold Medalist – University Cultural Event
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauriRajuJadhav&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=GauriRajuJadhav&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriRajuJadhav&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriRajuJadhav&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GauriRajuJadhav&theme=tokyonight"/>
 </p>
 
 ---
@@ -114,20 +152,31 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin-profile">
+
+<a href="mailto:gaurijadhav2022@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gauri-jadhav-96169532a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gaurijadhav2022@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/GauriRajuJadhav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/GauriRajuJadhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-<h3 align="center">✨ Code • Learn • Build • Grow ✨</h3>
-```
+<div align="center">
+
+## 🚀 Open to Java Full Stack Developer Opportunities
+
+### 💎 Building Reliable, Scalable & User-Centric Software Solutions
+
+### ✨ Code • Learn • Build • Grow
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</div>
